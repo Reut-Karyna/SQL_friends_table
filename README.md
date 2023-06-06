@@ -1,0 +1,1 @@
+# SQL_friends_table
